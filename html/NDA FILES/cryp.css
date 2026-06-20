@@ -1,0 +1,27 @@
+div.logo{
+    justify-self: center;
+    font-size: 100px;
+    background: linear-gradient(90deg, hsl(288, 71%, 20%), hsl(261, 88%, 14%),hsl(320, 96%, 18%));
+    background-clip: text;
+    display: inline;
+    color: transparent;
+    text-shadow: 5px
+}
+
+hr {
+    border-color: hsl(0, 0%, 0%);
+}
+
+nav a {
+    text-decoration: none;
+    color: hsl(288, 21%, 32%);
+}
+
+nav{
+width: 94%;
+padding: 10px;
+background: hsl(199, 100%, 60%, 0.658);
+border-bottom: 3px solid hsl(188, 19%, 24%);
+margin-bottom: auto;
+backdrop-filter: blur(15px);
+}
